@@ -10,7 +10,9 @@ Clone this Repo,
 Change Directory to this,  
 In the **command line**,type  
 >python manage.py makemigrations
+
 >python manage.py migrate
+
 >python manage.py createsuperuser  
 
 1. Create the user,Then type,  
